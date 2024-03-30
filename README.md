@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 
 This app is for my portfolio. The app was built to saved the places that you have visited around the world, it uses a map so that mark cities and add notes about the things that you expirence in your journey and save it. You can use Map popups mark the positions and go to the positions later if you need.
 
-This proyect was built with react, react-router, json-server, leaflet, react-leaflet,react-datepicker.
+This proyect was built with react, react-router, leaflet, react-leaflet,react-datepicker.
 
 Main project in Jonas Schmedtmann's Ultimate React Course
