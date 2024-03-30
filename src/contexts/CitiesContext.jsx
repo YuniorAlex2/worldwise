@@ -6,7 +6,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "https://wordlwise-backend.onrender.com/";
+const BASE_URL = "https://wordlwise-backend.onrender.com";
 
 const CitiesContext = createContext();
 
